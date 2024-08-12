@@ -3,7 +3,6 @@
 Programming Student💻<br>
 Video Maker📸📹<br>
 Designer by Hobbie🖥️<br>
-Occultist♓🎴<br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" 
